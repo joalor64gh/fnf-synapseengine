@@ -57,7 +57,7 @@
     {
       "name": "hython",
       "type": "git",
-      "ref": "dev",
+      "ref": "legacy",
       "url": "https://github.com/Paopun20/hython.git"
     },
     {
